@@ -1,8 +1,11 @@
 /******************************************************************************************************
-  Programmcode zur Diplomarbeit Dichtemessgerät
+  Projekt:  Diplomarbeit Dichtemessgerät
+  Code:     MainCode_Dichtemessgeraet 
+  
   Diplomand:        Raphael Lindauer
-  Erstelldatum:     16.08.2021
-  Fertigungsdatum:  03.10.2021
+  Studiengang:      Dipl. Techniker HF Elektrotechnik
+  Klasse:           L-TEL-18-Di-a
+  Erstelldatum:     17.09.2021
 
 *******************************************************************************************************
   Funktions-Beschreibung
